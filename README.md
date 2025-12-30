@@ -1,6 +1,5 @@
 # Save-2-
-11.Sınıf Projesi
-Black Souls Wiki sayfası.
+Proje açıklaması : Temel yapının çoğu oluşturuldu ve üstüne eklemeler yapılıyor.
 -İndex = Anasayfa
 -2.sayfa = Hakkımızda/ oyunun hikayesini az çok açıklar ve gameplayini kolaylaştıracak bilgiler verir.
 Teknolojiler : w3schools.com iconlar için, boostrap.
